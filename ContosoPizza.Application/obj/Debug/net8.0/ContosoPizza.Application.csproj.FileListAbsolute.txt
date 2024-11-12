@@ -1,0 +1,34 @@
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.deps.json
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Contracts.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Domain.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Contracts.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Domain.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.csproj.AssemblyReference.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.AssemblyInfoInputs.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.AssemblyInfo.cs
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.csproj.CoreCompileInputs.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoP.AD271506.Up2Date
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\refint\ContosoPizza.Application.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ref\ContosoPizza.Application.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.deps.json
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Application.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Contracts.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Domain.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Contracts.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\bin\Debug\net8.0\ContosoPizza.Domain.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.csproj.AssemblyReference.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.AssemblyInfoInputs.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.AssemblyInfo.cs
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.csproj.CoreCompileInputs.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoP.AD271506.Up2Date
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\refint\ContosoPizza.Application.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ContosoPizza.Application.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Application\obj\Debug\net8.0\ref\ContosoPizza.Application.dll

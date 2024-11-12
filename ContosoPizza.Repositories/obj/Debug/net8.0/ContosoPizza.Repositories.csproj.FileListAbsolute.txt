@@ -1,0 +1,30 @@
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.deps.json
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Domain.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Domain.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.csproj.AssemblyReference.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.AssemblyInfoInputs.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.AssemblyInfo.cs
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoP.81B62597.Up2Date
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\refint\ContosoPizza.Repositories.dll
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.pdb
+C:\Users\teixi\OneDrive\Escritorio\Personal\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ref\ContosoPizza.Repositories.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.deps.json
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Repositories.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Domain.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\bin\Debug\net8.0\ContosoPizza.Domain.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.csproj.AssemblyReference.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.AssemblyInfoInputs.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.AssemblyInfo.cs
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoP.81B62597.Up2Date
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\refint\ContosoPizza.Repositories.dll
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ContosoPizza.Repositories.pdb
+C:\Users\AlanTeixido\Desktop\Alan Teixidó\ContosoPizzaSolution\ContosoPizzaSolution\ContosoPizza.Repositories\obj\Debug\net8.0\ref\ContosoPizza.Repositories.dll

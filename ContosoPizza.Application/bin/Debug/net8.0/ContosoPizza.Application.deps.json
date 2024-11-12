@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContosoPizza.Application/1.0.0": {
+        "dependencies": {
+          "ContosoPizza.Contracts": "1.0.0",
+          "ContosoPizza.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ContosoPizza.Application.dll": {}
+        }
+      },
+      "ContosoPizza.Contracts/1.0.0": {
+        "runtime": {
+          "ContosoPizza.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ContosoPizza.Domain/1.0.0": {
+        "runtime": {
+          "ContosoPizza.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContosoPizza.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContosoPizza.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContosoPizza.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
